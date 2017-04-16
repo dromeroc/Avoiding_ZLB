@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2016.7.9)  26 FEB 2017 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2016.7.9)  17 APR 2017 01:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,7 +265,7 @@ Package ctable Warning:
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box32
-) (/Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/nkm_Damian_Romero.aux)
+) (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.aux)
 \openout1 = `nkm_Damian_Romero.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -326,7 +326,16 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 23.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+ [1
 
 ] [2] [3] [4] (./calibration.tex) [5] [6] [7]
 File: irfLevel_pref.eps Graphic file (type eps)
@@ -348,14 +357,14 @@ File: irfCompDegreeExp8_pref.eps Graphic file (type eps)
 File: distLevel.eps Graphic file (type eps)
  <distLevel.eps> [19] (./welfare.tex)
 File: welfare.eps Graphic file (type eps)
- <welfare.eps> [20] (/Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/nkm_Damian_Romero.bbl [21] [22]) [23] [24] [25] [26] (./app_error.tex) [27] (/Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/nkm_Damian_Romero.aux) ) 
+ <welfare.eps> [20] (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.bbl [21] [22]) [23] [24] [25] [26] (./app_error.tex) [27] (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.aux) ) 
 Here is how much of TeX's memory you used:
- 5120 strings out of 493015
- 72504 string characters out of 6133378
- 154509 words of memory out of 5000000
- 8579 multiletter control sequences out of 15000+600000
+ 5138 strings out of 493015
+ 72602 string characters out of 6133378
+ 155641 words of memory out of 5000000
+ 8594 multiletter control sequences out of 15000+600000
  14951 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,81p,2946b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,13n,81p,2899b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on "/Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/nkm_Damian_Romero.dvi" (27 pages, 102852 bytes).
+Output written on /Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.dvi (27 pages, 103552 bytes).
