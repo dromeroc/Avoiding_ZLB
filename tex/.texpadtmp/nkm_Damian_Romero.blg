@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/nkm_Damian_Romero.aux
+The style file: agsm.bst
+Database file #1: ../tbib.bib
+Warning--empty institution in AndradeEtAl2015
+Warning--empty institution in AngeletosEtAl2016
+Warning--empty institution in KaplanEtAl2016
+Warning--empty institution in KeenEtAl2016
+Warning--empty institution in Werning2012
+You've used 25 entries,
+            2909 wiz_defined-function locations,
+            801 strings with 8933 characters,
+and the built_in function-call counts, 112554 in all, are:
+= -- 18403
+> -- 1533
+< -- 5
++ -- 8865
+- -- 462
+* -- 9826
+:= -- 22530
+add.period$ -- 25
+call.type$ -- 25
+change.case$ -- 353
+chr.to.int$ -- 24
+cite$ -- 30
+duplicate$ -- 364
+empty$ -- 754
+format.name$ -- 551
+if$ -- 20206
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 78
+num.names$ -- 265
+pop$ -- 81
+preamble$ -- 1
+purify$ -- 375
+quote$ -- 0
+skip$ -- 313
+stack$ -- 0
+substring$ -- 26074
+swap$ -- 54
+text.length$ -- 355
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 98
+warning$ -- 5
+while$ -- 538
+width$ -- 0
+write$ -- 337
+(There were 5 warnings)

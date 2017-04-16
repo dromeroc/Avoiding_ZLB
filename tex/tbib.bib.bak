@@ -1,0 +1,242 @@
+% Encoding: UTF-8
+
+@Article{Fernandez-VillaverdeEtAl2015,
+  author  = {Fern\'{a}ndez-Villaverde, Jes\'{u}s and Gordon, Grey and Guerron-Quintana, Pablo and Rubio-Ramirez, Juan},
+  title   = {Nonlinear adventures at the zero lower bound},
+  journal = {Journal of Economic Dynamics and Control},
+  year    = {2015},
+  volume  = {57},
+  pages   = {182-204},
+}
+
+@Book{Gali2015,
+  title     = {Monetary Policy, Inflation and the Business Cycle: An Introduction to the New Keynesian Framework},
+  publisher = {Princeton University Press},
+  year      = {2015},
+  author    = {Gali, Jordi},
+  edition   = {2},
+}
+
+@Article{BenhabibEtAl2001,
+  author  = {Benhabib, Jess and Schmitt-Groh\'{e}, Stephanie and Uribe, Mart\'{i}n},
+  title   = {Monetary policy and multiple equilibria},
+  journal = {American Economic Review},
+  year    = {2001},
+  volume  = {91},
+  number  = {1},
+  pages   = {167-186},
+}
+
+@Article{BenhabibEtAl2001a,
+  author  = {Benhabib, Jess and Schmitt-Groh\'{e}, Stephanie and Uribe, Mart\'{i}n},
+  title   = {The perils of {T}aylor rules},
+  journal = {Journal of Economic Theory},
+  year    = {2001},
+  volume  = {96},
+  pages   = {40-69},
+}
+
+@Article{BenhabibEtAl2002,
+  author  = {Benhabib, Jess and Schmitt-Groh\'{e}, Stephanie and Uribe, Mart\'{i}n},
+  title   = {Avoiding liquidity traps},
+  journal = {Journal of Political Economy},
+  year    = {2002},
+  volume  = {110},
+  number  = {3},
+  pages   = {535-563},
+}
+
+@Article{AscariEtAl2012,
+  author  = {Ascari, Guido and Rossi, Lorenza},
+  title   = {Trend inflation and firms price-settings: {Rotemberg} versus {Calvo}},
+  journal = {The Economic Journal},
+  year    = {2012},
+  volume  = {122},
+  number  = {563},
+  pages   = {1115-1141},
+}
+
+@Article{Rotemberg1982,
+  author  = {Rotemberg, Julio},
+  title   = {Sticky prices in the {United States}},
+  journal = {Journal of Political Economy},
+  year    = {1982},
+  volume  = {90},
+  number  = {6},
+  pages   = {1187-1211},
+}
+
+@Article{Sims2002,
+  author  = {Sims, Christopher},
+  title   = {Solving linear rational expectations models},
+  journal = {Computational Economics},
+  year    = {2002},
+  volume  = {20},
+  pages   = {1-20},
+}
+
+@TechReport{KeenEtAl2016,
+  author = {Keen, Banjamin and Richter, Alexander and Throckmorton, Nathaniel},
+  title  = {Forward guidance and the state of the economy},
+  year   = {2016},
+  type   = {Federal Reserve Bank of Dallas Working Paper},
+  number = {1612},
+}
+
+@TechReport{KaplanEtAl2016,
+  author = {Kaplan, Greg and Moll, Ben and Violante, Gianluca},
+  title  = {Monetary policy according to {HANK}},
+  year   = {2016},
+  type   = {NBER Working Paper},
+  number = {21897},
+}
+
+@Article{McKayEtAl2016,
+  author  = {McKay, Alisdair and Nakamura, Emi and Steinsson, Jon},
+  title   = {The power of forward guidance revisited},
+  journal = {American Economic Review},
+  year    = {2016},
+  volume  = {106},
+  number  = {10},
+  pages   = {3133-58},
+}
+
+@TechReport{DelNegroEtAl2015,
+  author      = {Del Negro, Marco and Giannoni, Marc and Patterson, Christina},
+  title       = {The forward guidance puzzle},
+  institution = {Federal Reserve Bank of New York},
+  year        = {2015},
+  type        = {Staff Report},
+  number      = {574},
+}
+
+@Article{AdamEtAl2007,
+  author  = {Adam, Klaus and Billi, Roberto},
+  title   = {Discretionary monetary policy and the zero lower bound on nominal interest rates},
+  journal = {Journal of Monetary Economics},
+  year    = {2007},
+  volume  = {54},
+  pages   = {728-52},
+}
+
+@Article{EggertssonEtAl2003,
+  author  = {Eggertsson, Gauti and Woodford, Michael},
+  title   = {The zero bound on interest rates and optimal monetary policy},
+  journal = {Brookings Papers on Economic Activity},
+  year    = {2003},
+  volume  = {1},
+}
+
+@Conference{AruobaEtAl2016,
+  author    = {Aruoba, Boragan and Schorfheide, Frank},
+  title     = {Inflation during and after the zero lower bound},
+  booktitle = {2015 Jackson Hole Symposium Volume},
+  year      = {2016},
+  publisher = {Federal Reserve Bank of Kansas City},
+}
+
+@TechReport{AndradeEtAl2015,
+  author = {Andrade, Philippe and Gaballo, Gaetano and Mengus, Eric and Mojon, Benoit},
+  title  = {Forward guidance and heterogeneous beliefs},
+  year   = {2015},
+  type   = {Mimeo},
+}
+
+@TechReport{AngeletosEtAl2016,
+  author = {Angeletos, George-Marios and Lian, Chen},
+  title  = {Forward guidance without common knowledge},
+  year   = {2016},
+  type   = {Mimeo},
+}
+
+@Article{BachmannEtAl2015,
+  author  = {Bachmann, Rudiger and Berg, Tim and Sims, Eric},
+  title   = {Inflation expectations and readiness to spend: Cross-sectional evidence},
+  journal = {American Economic Journal: Economic Policy},
+  year    = {2015},
+  volume  = {7},
+  number  = {1},
+}
+
+@TechReport{CampbellEtAl2012,
+  author      = {Campbell, Jeffrey and Evans, Charles and Fisher, Jonas and Justiniano, Alejandro},
+  title       = {Macroeconomic effects of {Federal Reserve} forward guidance},
+  institution = {Federal Reserve Bank of Chicago},
+  year        = {2012},
+  type        = {Working Paper},
+  number      = {3},
+  journal     = {Brooking Papers on Economic Activity},
+}
+
+@Article{CoibionEtAl2012,
+  author  = {Coibion, Olivier and Gorodnichenko, Yuriy and Wieland, Johannes},
+  title   = {The optimal inflation rate in {New Keynesian} models: Should central banks raise their inflation targets in light of the zero lower bound?},
+  journal = {Review of Economic Studies},
+  year    = {2012},
+  volume  = {79},
+  pages   = {1371-1406},
+}
+
+@Article{CorreiaEtAl2013,
+  author  = {Correia, Isabel and Farhi, Emmanuel and Nicolini, Juan Pablo and Teles, Pedro},
+  title   = {Unconventional fiscal policy at the zero bound},
+  journal = {American Economic Review},
+  year    = {2013},
+  volume  = {103},
+  number  = {4},
+  pages   = {1172-1211},
+}
+
+@Article{Hall2011,
+  author  = {Hall, Robert},
+  title   = {The long slump},
+  journal = {American Economic Review},
+  year    = {2011},
+  volume  = {101},
+  pages   = {431-469},
+}
+
+@TechReport{Werning2012,
+  author = {Werning, Ivan},
+  title  = {Managing a liquidity trap: Monetary and fiscal policy},
+  year   = {2012},
+  type   = {Mimeo},
+}
+
+@TechReport{BorioEtAl2016,
+  author      = {Borio, Claudio and Zabai, Anna},
+  title       = {Unconventional monetary policies: A re-appraisal},
+  institution = {Bank for International Settlements},
+  year        = {2016},
+  type        = {BIS Working Papers},
+  number      = {570},
+}
+
+@Article{ChenEtAl2012,
+  author  = {Chen, Han and Curdia, Vasco and Ferrero, Andrea},
+  title   = {The macroeconomic effects of large-scale asset purchase programmes},
+  journal = {The Economic Journal},
+  year    = {2012},
+  volume  = {122},
+  pages   = {289-315},
+}
+
+@Article{GertlerEtAl2011,
+  author  = {Gertler, Mark and Karadi, Peter},
+  title   = {A mode of unconventional monetary policy},
+  journal = {Journal of Monetary E},
+  year    = {2011},
+  volume  = {58},
+  pages   = {17-34},
+}
+
+@Article{JoyceEtAl2012,
+  author  = {Joyce, Michael and Miles, David and Scott, Andrew and Vayanos, Dimitri},
+  title   = {Quantitative easing and unconventional monetary policy--An introduction},
+  journal = {The Economic},
+  year    = {2012},
+  volume  = {122},
+  pages   = {271-88},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

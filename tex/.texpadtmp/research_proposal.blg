@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/research_proposal.aux
+The style file: agsm.bst
+Database file #1: ../tbib.bib
+You've used 2 entries,
+            2909 wiz_defined-function locations,
+            651 strings with 5320 characters,
+and the built_in function-call counts, 11208 in all, are:
+= -- 1868
+> -- 115
+< -- 0
++ -- 907
+- -- 35
+* -- 978
+:= -- 2215
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 28
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 32
+empty$ -- 65
+format.name$ -- 40
+if$ -- 2012
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 9
+num.names$ -- 21
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 2692
+swap$ -- 4
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 43
+width$ -- 0
+write$ -- 29

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/damianromero/Dropbox/PhD/Courses/y2/q1/debortoli/term paper/tex/.texpadtmp/appendix_models.aux
+The style file: agsm.bst
+Database file #1: ../tbib.bib
+You've used 4 entries,
+            2909 wiz_defined-function locations,
+            667 strings with 5548 characters,
+and the built_in function-call counts, 27853 in all, are:
+= -- 4676
+> -- 301
+< -- 0
++ -- 2293
+- -- 91
+* -- 2492
+:= -- 5395
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 56
+chr.to.int$ -- 3
+cite$ -- 4
+duplicate$ -- 64
+empty$ -- 141
+format.name$ -- 103
+if$ -- 5029
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 15
+num.names$ -- 44
+pop$ -- 6
+preamble$ -- 1
+purify$ -- 60
+quote$ -- 0
+skip$ -- 58
+stack$ -- 0
+substring$ -- 6771
+swap$ -- 14
+text.length$ -- 56
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 88
+width$ -- 0
+write$ -- 58
