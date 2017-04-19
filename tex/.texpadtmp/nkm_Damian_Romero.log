@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2016.7.9)  17 APR 2017 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2016.7.9)  19 APR 2017 19:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -262,24 +262,21 @@ Package ctable Warning:
 \@CToldrule=\dimen167
 \CT@t=\box31
 \@CTcurftwidth=\dimen168
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box32
 ) (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.aux)
 \openout1 = `nkm_Damian_Romero.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -300,12 +297,12 @@ LaTeX Font Info:    ... okay on input line 21.
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -317,54 +314,53 @@ LaTeX Font Info:    ... okay on input line 21.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
-Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
  [1
 
 ] [2] [3] [4] (./calibration.tex) [5] [6] [7]
 File: irfLevel_pref.eps Graphic file (type eps)
  <irfLevel_pref.eps> [8]
 File: irfExp_pref.eps Graphic file (type eps)
- <irfExp_pref.eps> [9] [10]
+ <irfExp_pref.eps> [9]
 File: irfCompLevel_pref.eps Graphic file (type eps)
- <irfCompLevel_pref.eps> [11]
+ <irfCompLevel_pref.eps> [10]
 File: irfCompExp4_pref.eps Graphic file (type eps)
- <irfCompExp4_pref.eps> [12]
+ <irfCompExp4_pref.eps> [11]
 File: irfCompExp8_pref.eps Graphic file (type eps)
- <irfCompExp8_pref.eps> [13] [14]
+ <irfCompExp8_pref.eps> [12] [13]
 File: irfCompDegreeLevel_pref.eps Graphic file (type eps)
- <irfCompDegreeLevel_pref.eps> [15]
+ <irfCompDegreeLevel_pref.eps> [14]
 File: irfCompDegreeExp4_pref.eps Graphic file (type eps)
- <irfCompDegreeExp4_pref.eps> [16]
+ <irfCompDegreeExp4_pref.eps>
 File: irfCompDegreeExp8_pref.eps Graphic file (type eps)
- <irfCompDegreeExp8_pref.eps> [17] [18]
+ <irfCompDegreeExp8_pref.eps> [15]
 File: distLevel.eps Graphic file (type eps)
- <distLevel.eps> [19] (./welfare.tex)
+ <distLevel.eps> [16]
 File: welfare.eps Graphic file (type eps)
- <welfare.eps> [20] (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.bbl [21] [22]) [23] [24] [25] [26] (./app_error.tex) [27] (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.aux) ) 
+ <welfare.eps> [17] [18] (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.bbl [19]) [20] [21] [22] (./app_error.tex) [23] [24] (/Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.aux) ) 
 Here is how much of TeX's memory you used:
- 5138 strings out of 493015
- 72602 string characters out of 6133378
- 155641 words of memory out of 5000000
- 8594 multiletter control sequences out of 15000+600000
- 14951 words of font info for 57 fonts, out of 8000000 for 9000
+ 5088 strings out of 493015
+ 71732 string characters out of 6133378
+ 158480 words of memory out of 5000000
+ 8545 multiletter control sequences out of 15000+600000
+ 15143 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,81p,2899b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,13n,77p,2899b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.dvi (27 pages, 103552 bytes).
+Output written on /Users/damianromero/Dropbox/Inflation/ZLB/tex/.texpadtmp/nkm_Damian_Romero.dvi (24 pages, 98760 bytes).
