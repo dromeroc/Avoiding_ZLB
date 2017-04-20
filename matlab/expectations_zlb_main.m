@@ -517,36 +517,36 @@ grey2 = [0 0 0]+.75;
 f0 = figure(9);
 subplot(2,2,1)
 [c1,b1] = hist(PIs_y(:,FGsel),nbins);
-plot(b1,c1(:,1),'k','LineWidth',2),hold on,
-plot(b1,c1(:,2),'--','Color',grey1,'LineWidth',2),
-plot(b1,c1(:,3),'-.','Color',grey2,'LineWidth',2),hold off
+plot(b1,c1(:,1)./500,'k','LineWidth',2),hold on,
+plot(b1,c1(:,2)./500,'--','Color',grey1,'LineWidth',2),
+plot(b1,c1(:,3)./500,'-.','Color',grey2,'LineWidth',2),hold off
 yL = get(gca,'YLim');line([stst(5) stst(5)],yL,'Color','k');
 title('Inflation','Interpreter','latex'),axis tight
 set(gca,'FontSize',13)
  
 subplot(2,2,2)
 [c1,b1] = hist(Ys_y(:,FGsel),nbins);
-plot(b1,c1(:,1),'k','LineWidth',2),hold on,
-plot(b1,c1(:,2),'--','Color',grey1,'LineWidth',2),
-plot(b1,c1(:,3),'-.','Color',grey2,'LineWidth',2),hold off
+plot(b1,c1(:,1)./500,'k','LineWidth',2),hold on,
+plot(b1,c1(:,2)./500,'--','Color',grey1,'LineWidth',2),
+plot(b1,c1(:,3)./500,'-.','Color',grey2,'LineWidth',2),hold off
 yL = get(gca,'YLim');line([stst(4) stst(4)],yL,'Color','k');
 title('Output','Interpreter','latex'),axis tight
 set(gca,'FontSize',13)
  
 subplot(2,2,3)
 [c1,b1] = hist(RMCs_y(:,FGsel),nbins);
-plot(b1,c1(:,1),'k','LineWidth',2),hold on,
-plot(b1,c1(:,2),'--','Color',grey1,'LineWidth',2),
-plot(b1,c1(:,3),'-.','Color',grey2,'LineWidth',2),hold off
+plot(b1,c1(:,1)./500,'k','LineWidth',2),hold on,
+plot(b1,c1(:,2)./500,'--','Color',grey1,'LineWidth',2),
+plot(b1,c1(:,3)./500,'-.','Color',grey2,'LineWidth',2),hold off
 yL = get(gca,'YLim');line([stst(8) stst(8)],yL,'Color','k');
 title('Real marginal cost','Interpreter','latex'),axis tight
 set(gca,'FontSize',13)
  
 subplot(2,2,4)
 [c1,b1] = hist(Rs_y(:,FGsel),nbins);
-plot(b1,c1(:,1),'k','LineWidth',2),hold on,
-plot(b1,c1(:,2),'--','Color',grey1,'LineWidth',2),
-plot(b1,c1(:,3),'-.','Color',grey2,'LineWidth',2),hold off
+plot(b1,c1(:,1)./500,'k','LineWidth',2),hold on,
+plot(b1,c1(:,2)./500,'--','Color',grey1,'LineWidth',2),
+plot(b1,c1(:,3)./500,'-.','Color',grey2,'LineWidth',2),hold off
 yL = get(gca,'YLim');line([stst(6) stst(6)],yL,'Color','k');
 title('Interest rate','Interpreter','latex'),axis tight
 hL=legend('ZLB TR','ZLB MR $y=0.5$','ZLB MR $y=2$');
@@ -595,9 +595,9 @@ f0 = figure(11);
 
 %subplot(1,2,2)
 [c1,b1] = hist(W(:,FGsel),nbins);
-plot(b1,c1(:,1),'k','LineWidth',2),hold on,
-plot(b1,c1(:,2),'--','Color',grey1,'LineWidth',2),
-plot(b1,c1(:,3),'-.','Color',grey2,'LineWidth',2),hold off
+plot(b1,c1(:,1)./500,'k','LineWidth',2),hold on,
+plot(b1,c1(:,2)./500,'--','Color',grey1,'LineWidth',2),
+plot(b1,c1(:,3)./500,'-.','Color',grey2,'LineWidth',2),hold off
 xticks(-1.51:0.001:-1.505);xlim([-1.51 -1.5058]);%axis([-1.51 -1.5058 0 21000])
 legend('ZLB TR','ZLB MR $y=0.5$','ZLB MR $y=2$','Location','NorthWest');
 set(gca,'FontSize',13)
